@@ -5,4 +5,4 @@ All ETH/BNB, valuable Erc20 & Bep20 tokens, can pay fees from other account to s
 Automatic Flashbots bundles and relay. 
 
 Simple to use and setup.
-For purchase, hit me up https://t.me/fintechexp
+For purchase, https://t.me/fintechexp
