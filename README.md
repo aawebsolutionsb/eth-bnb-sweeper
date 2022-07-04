@@ -3,7 +3,7 @@
 
 All ETH/BNB,  Erc20 & Bep20 tokens, can pay fees from other account to sweep your target balance instantly to yours, autogas also included.
 
-Update July 4th, 2020.
+Update July 4th, 2022.
 ** NFT Drainer Added.
 ** Targets Nfts by value.
 ** Choose to Target Stablecoins first or get high value erc20 coins first.
